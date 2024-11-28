@@ -1,9 +1,5 @@
 # Hi there, I'm Pablo 👋
 
-
-
-
-
 ## 👨‍💻 About Me
 
 - 🎓 𝗘𝗣𝗙𝗟 𝗕𝗦𝗰 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝘀𝘁𝘂𝗱𝗲𝗻𝘁 𝘀𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘇𝗶𝗻𝗴 𝗶𝗻 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗦𝘆𝘀𝘁𝗲𝗺𝘀 𝗮𝗻𝗱 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴.
@@ -15,10 +11,6 @@
 - 𝙇𝙖𝙧𝙜𝙚 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚 𝙈𝙤𝙙𝙚𝙡𝙨
 - 𝙋𝙖𝙧𝙖𝙡𝙡𝙚𝙡 𝘾𝙤𝙢𝙥𝙪𝙩𝙞𝙣𝙜
 
-## 🌍 Check Out My Website
-
-Feel free to visit my personal website for more information about my work and projects:   [**veridisyndrome.github.io**](https://veridisyndrome.github.io)
-
 ## 🛠️ Technologies & Tools
 
 Here are a few of the technologies I work with:
@@ -27,16 +19,10 @@ Here are a few of the technologies I work with:
 - **Libraries/Frameworks**: PyTorch, TensorFlow, Scikit-learn, HuggingFace, CUDA (including CUDA Graphs)
 - **Others**: Git, LaTeX, React, Node.js
 
-## 📈 GitHub Stats
+## 🌍 Check Out My Website
 
-![Veridisyndrome's GitHub Stats](https://github-readme-stats.vercel.app/api?username=veridisyndrome&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+Feel free to visit my personal website for more information about my work and projects:   [**veridisyndrome.github.io**](https://veridisyndrome.github.io)
 
-## 📫 Get In Touch
-
-You can reach out to me through:
-- [Personal Website](https://veridisyndrome.github.io)
-- [LinkedIn](https://www.linkedin.com/in/pblorg)
-- [ORCID Profile](https://orcid.org/0009-0005-1030-1848)
 
 
 ---
