@@ -1,14 +1,14 @@
 # Hey there, I'm Pablo 👋
-### Computer Science @ <a href="https://www.epfl.ch/schools/ic/">EPFL</a> & Research Intern @ <a href="https://rs3lab.github.io">EPFL RS3Lab</a> | Prev Research Inter @ <a href="https://cp.kaist.ac.kr">KAIST Concurrency & Parallelism Laboratory</a>
+### Upcoming Visiting Student @ <a href="https://nicsefc.ee.tsinghua.edu.cn/">Tsinghua University NICS Lab</a> | BSc CS @ <a href="https://www.epfl.ch/schools/ic/">EPFL</a> & Research Intern @ <a href="https://rs3lab.github.io">EPFL RS3Lab</a> | Prev Research Inter @ <a href="https://cp.kaist.ac.kr">KAIST Concurrency & Parallelism Laboratory</a>
 
 ### Reseach Interests:
-- `AI Accelerator`
-- `Large Language Model Inference`
-- `Parallel Computing`
+- `Efficient AIGC`
+- `Software-Hardware Co-optimization`
+- `Edge Computing`
 
 ### Skills
 - 💻 **Languages**: `Python`, `Java`, `Scala`, `C/C++`, `Kotlin`
-- 🕸️ **Frameworks/Libraries**: `PyTorch`, `TensorFlow`, `Scikit-learn`, `HuggingFace`, `CUDA (including CUDA Graphs)`, `React`, `Node.js`
+- 🕸️ **Frameworks/Libraries**: `PyTorch`, `TensorFlow`, `Scikit-learn`, `HuggingFace`, `React`, `NextJS`, `Node.js`
 - 🛠️ **Tools**: `Git`, `Linux`, `LaTeX`, `Docker`
 
 ### Contact Me!
