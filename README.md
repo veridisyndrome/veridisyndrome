@@ -1,5 +1,5 @@
 # Hey there, I'm Pablo 👋
-### Upcoming Visiting Student @ <a href="https://nicsefc.ee.tsinghua.edu.cn/">Tsinghua University NICS Lab</a> | BSc CS @ <a href="https://www.epfl.ch/schools/ic/">EPFL</a> & Research Intern @ <a href="https://rs3lab.github.io">EPFL RS3Lab</a> | Prev Research Inter @ <a href="https://cp.kaist.ac.kr">KAIST Concurrency & Parallelism Laboratory</a>
+### Upcoming Visiting Student Researcher @ <a href="https://nicsefc.ee.tsinghua.edu.cn/">Tsinghua University NICS Lab</a> | BSc CS @ <a href="https://www.epfl.ch/schools/ic/">EPFL</a> & Research Intern @ <a href="https://rs3lab.github.io">EPFL RS3Lab</a> | Prev Research Inter @ <a href="https://cp.kaist.ac.kr">KAIST Concurrency & Parallelism Laboratory</a>
 
 ### Reseach Interests:
 - `Efficient AIGC`
